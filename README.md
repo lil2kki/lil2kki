@@ -10,6 +10,6 @@ Here are some:
 - 🤔 I’m looking for help with killing feelings
 - 💬 **Don't ask me about updates!** (you can try still maybe im not that bad)
   - **Ask any mod dev (or yourself) to fork and port my mods, i always and quickly accept pull requests.**
-- 📫 How to reach me: [discord](https://discord.gg/kXjQ8QEWNU) / [telegram](https://t.me/lil2kki) / **[github](https://github.com/lil2kki/lil2kki/issues)** 
+- 📫 How to reach me: [discord](https://discord.gg/kXjQ8QEWNU) / [telegram](https://t.me/lil2kki) / **[github](https://github.com/lil2kki/lil2kki/issues/new)** 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i want leave gd modding thanks
